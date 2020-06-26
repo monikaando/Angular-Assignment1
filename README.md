@@ -8,6 +8,7 @@ In this   assignment I practiced:
 <img src="https://res.cloudinary.com/mokaweb/image/upload/v1593165569/Udemy%20Angular%20TypeScript/assignment-1.png" alt="Assignment1">
 
 to run: 
+
 npm i 
 
 ng serve
