@@ -7,7 +7,7 @@ In this   assignment I practiced:
 4. Use external and internal templates and styles
 <img src="https://res.cloudinary.com/mokaweb/image/upload/v1593165569/Udemy%20Angular%20TypeScript/assignment-1.png" alt="Assignment1">
 
-to run: 
+to run type in ClI: 
 
 npm i 
 
