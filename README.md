@@ -1,5 +1,6 @@
 # Assignment1
 run: ng serve
+
 In this   assignment I practiced:
 1. Create Components manually
 2. Create Components with CLI
